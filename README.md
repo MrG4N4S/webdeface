@@ -1,4 +1,4 @@
-# webdeface
+# DFC
 
 
 #Cara menginstsall toolsnya
@@ -9,7 +9,7 @@ $ pkg install git
 $ pkg install requests
 $ git clone https://github.com/MrG4N4S/webdeface
 $ cd webdeface
-$ python2 webdeface.py
+$ python2 DFC.py
 
 Jangan lupa subscribe channel BUMI TUTOR
 BLOG  : http://stop-media.ga
